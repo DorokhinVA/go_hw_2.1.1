@@ -1,23 +1,4 @@
-.idea
-Thumbs.db*
-.DS_Store*
-HELP.md
-TODO.md
-tmp
-*.iml
+module github.com/DorokhinVA/go_hw_2.1.1
 
-# Binaries for programs and plugins
-*.exe
-*.exe~
-*.dll
-*.so
-*.dylib
+go 1.14
 
-# Test binary, built with `go test -c`
-*.test
-
-# Output of the go coverage tool, specifically when used with LiteIDE
-*.out
-
-# Dependency directories (remove the comment below to include it)
-# vendor/
